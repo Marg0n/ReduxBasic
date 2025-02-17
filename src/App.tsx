@@ -1,3 +1,4 @@
+import Navbar from "./components/layout/Navbar";
 import { Button } from "./components/ui/button";
 import { decrement, increment } from "./redux/features/counter/counterSlice";
 import { useAppDispatch, useAppSelector } from "./redux/hook";
@@ -16,6 +17,8 @@ function App() {
 
   return (
     <>
+      <Navbar/>
+     {/* Your application code here */}
       <div>
         <h1>Counter with Redux</h1>
         <Button onClick={() => handleIncrement(2)}>Increment</Button>

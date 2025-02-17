@@ -10,6 +10,24 @@ used tech:
 
 - [shadcn/ui](https://ui.shadcn.com/docs/installation/vite)
 
+- [react-router-dom](https://reactrouter.com/6.29.0/start/tutorial)
+
+  ```
+  npm install react-router-dom
+  ```
+
+- [reacthook form](https://react-hook-form.com/get-started)
+
+  ```
+  npm install react-hook-form
+  ```
+
+- [axios](https://github.com/axios/axios)
+
+  ```
+  npm install axios
+  ```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
