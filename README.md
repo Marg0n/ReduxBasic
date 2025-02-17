@@ -1,3 +1,15 @@
+# ReduxBasic
+
+used tech:
+
+- [react toolkit](https://redux-toolkit.js.org/introduction/getting-started)
+
+  ```
+  npm i @reduxjs/toolkit react-redux
+  ```
+
+- [shadcn/ui](https://ui.shadcn.com/docs/installation/vite)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,4 +60,3 @@ export default tseslint.config({
   },
 })
 ```
-# ReduxBasic
