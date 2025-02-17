@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const Navbar = () => {
@@ -8,7 +9,8 @@ const Navbar = () => {
                 <span className="font-bold text-2xl ml-2">
                     My Website
                 </span>
-            </div>            
+            </div>  
+            <Link to='/'></Link>          
         </nav>
     );
 };

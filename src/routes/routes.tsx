@@ -5,6 +5,9 @@ const routes = createBrowserRouter([
     {
         path: "/",
         element: <App/>,
+        children: [
+            // Add your routes here
+        ],
     }
 ]);
 
