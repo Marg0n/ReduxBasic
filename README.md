@@ -1,5 +1,7 @@
 # ReduxBasic
 
+A basic start up project to learn about Redux.
+
 used tech:
 
 - [react toolkit](https://redux-toolkit.js.org/introduction/getting-started)
